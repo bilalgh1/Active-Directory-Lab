@@ -1,5 +1,5 @@
 # Active-Directory-Lab
-**Bilal GHLOUCI**
+**bilalgh1**
 
 ## Index 
 1. [Introduction](#introduction)
@@ -210,4 +210,4 @@ Immediate telemetry in Splunk confirms our configuration is capturing malicious 
 This lab successfully demonstrates the "Full-Stack" of security operations: from infrastructure building to offensive simulation and defensive analysis. 
 
 ---
-**Bilal** | © 2026
+**bilalgh1** | © 2026
